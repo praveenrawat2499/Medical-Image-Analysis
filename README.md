@@ -28,8 +28,8 @@ The project implements various deep learning models, primarily focusing on Convo
 VGG16, MobileNet, ResNet50
 
 ## Files in the Repository
-### Final.py: Main script for running the final model.
-### braintumor_detecting_mri_images_cnn.py: Script for detecting brain tumors in MRI images using CNN.
-### ct_scan_cancer_det.py: Script for detecting cancer in CT scan images.
-### bg4.jpg, bg5.jpg, download.jpg, healthcare-image-analysis.jpg: Image files used in the project.
+*Final.py: Main script for running the final model.* <br>
+*braintumor_detecting_mri_images_cnn.py: Script for detecting brain tumors in MRI images using CNN.* <br>
+*ct_scan_cancer_det.py: Script for detecting cancer in CT scan images.* <br>
+*bg4.jpg, bg5.jpg, download.jpg, healthcare-image-analysis.jpg: Image files used in the project.* <br>
 
