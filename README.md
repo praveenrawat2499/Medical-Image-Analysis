@@ -1,4 +1,4 @@
-# Medical-Image-Analysis
+# Medical Image Analysis
 This project involves the analysis of medical images using deep learning techniques to aid in the diagnosis and treatment of various medical conditions. The focus is on leveraging convolutional neural networks (CNNs) to improve the accuracy and efficiency of image classification and segmentation tasks.
 
 ## Introduction
