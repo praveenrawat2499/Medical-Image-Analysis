@@ -10,7 +10,7 @@ Image Segmentation: Segment specific areas of interest within medical images, su
 Model Training: Train deep learning models on large datasets of labeled medical images.
 Model Evaluation: Evaluate the performance of the models using various metrics like accuracy, precision, recall, and F1-score.
 
-**Tech Stack :** <br>
+## Tech Stack
 *Python* <br>
 *StreamLit (Framework)* <br>
 *Machine Learning* <br>
