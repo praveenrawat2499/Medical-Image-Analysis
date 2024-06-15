@@ -27,3 +27,9 @@ Model Evaluation: Evaluate the performance of the models using various metrics l
 The project implements various deep learning models, primarily focusing on Convolutional Neural Networks (CNNs). Examples include:
 VGG16, MobileNet, ResNet50
 
+## Files in the Repository
+Final.py: Main script for running the final model.
+braintumor_detecting_mri_images_cnn.py: Script for detecting brain tumors in MRI images using CNN.
+ct_scan_cancer_det.py: Script for detecting cancer in CT scan images.
+bg4.jpg, bg5.jpg, download.jpg, healthcare-image-analysis.jpg: Image files used in the project.
+
